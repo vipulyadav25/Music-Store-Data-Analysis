@@ -1,7 +1,7 @@
 # Music-Store-Data-Analysis
 
 
-This project analyzes a music store’s relational database to uncover actionable insights into **sales performance**, **customer behavior**, and **product popularity** using **SQL**.
+This project analyzes a music store’s relational database to uncover actionable insights into **sales performance**, **customer behavior**, and **product popularity** using **SQL** and **Excel**
 
 ## 📁 Project Structure
 
