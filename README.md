@@ -27,6 +27,7 @@ The database contains tables related to customers, invoices, artists, tracks, al
 - **MySQL** / **SQL**
 - **MySQL Workbench**
 - **Entity Relationship Diagrams (ERD)**
+- **Excel**
 
 ---
 
